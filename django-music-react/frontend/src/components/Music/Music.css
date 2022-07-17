@@ -1,0 +1,30 @@
+body{
+  width: 100%;
+  height: 100%;
+  background-color: #e4c89d;
+  text-align: center;
+  background-image: url(https://d2w9rnfcy7mm78.cloudfront.net/16108848/original_2dd3026cab8788928f76868ec41a64c2.png?1650318575?bc=0), url(https://d2w9rnfcy7mm78.cloudfront.net/16108847/original_edd60ab159198d217f7bacc38315bb6b.png?1650318574?bc=0);
+}
+
+button{
+    background-color: #747974; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: #e90a3a;
+    color: #616161;
+    box-shadow: 2px 2px;
+  }
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    margin: 10px 10px;
+  }
+  
